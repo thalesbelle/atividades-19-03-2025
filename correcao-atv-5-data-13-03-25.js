@@ -38,3 +38,7 @@ brendha.fazerSom();
 const bruno = new Animal("Bruno", "lobo", 15);
 console.log(bruno);
 bruno.fazerSom();
+
+const eduardo = new Animal("Eduardo", "burro", 17);
+console.log(eduardo);
+eduardo.fazerSom();
